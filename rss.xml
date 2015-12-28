@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TimesSquare]]></title>
+        <description><![CDATA[TimesSquare]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 28 Dec 2015 07:49:21 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[All Blacks]]></title>
+            <description><![CDATA[<article><h1>All Blacks</h1><p>All Blacks rocked 2015 stage</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3973423b5f8622bfd3beee099120acb72fc2b208.jpg"></article>]]></description>
+            <link>undefinedall-blacks/index.html</link>
+            <guid isPermaLink="false">b0866622-a0a7-4575-9a53-3f3cf2561e3e</guid>
+            <pubDate>Mon, 28 Dec 2015 07:49:20 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
