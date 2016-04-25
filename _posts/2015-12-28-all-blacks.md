@@ -1,29 +1,27 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: true
-keywords: []
-description: The masters of black
-datePublished: '2015-12-28T07:52:43.789Z'
-dateModified: '2015-12-28T07:52:33.351Z'
-title: All Blacks
-author: []
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+dateModified: '2016-04-25T19:10:42.606Z'
+datePublished: '2016-04-25T19:11:19.338Z'
+keywords: []
+publisher: {}
+title: ''
+hasPage: true
+inFeed: true
+inNav: true
+description: ''
+author: []
+starred: true
 sourcePath: _posts/2015-12-28-all-blacks.md
 published: true
 url: all-blacks/index.html
 _type: Article
 
 ---
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3973423b5f8622bfd3beee099120acb72fc2b208.jpg)
+
 All Blacks rocked 2015 stage
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c1e587e3f4e545cb1ddf13fca4d57df66736c774.jpg)
 
 Masters of the field, nobody could come near them
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/7d4f6d4e0bc03fe8c34f326fba441085fdcfb913.jpg)
+![Kick the ball](https://s3-us-west-2.amazonaws.com/the-grid-img/p/85aa6f6b17b33f61d8d1d8da3c9265b553ef474b.jpg)
+
+The Blacks won
